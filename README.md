@@ -46,6 +46,7 @@ RUN the following commands :
 5. Enter on the console the sample input following the format on the given sample input
 
 After entering the input, hit enter twice to return the output of league table on the console
+
 //NB you must have junit installed to run test cases
 
 
